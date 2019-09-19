@@ -18,12 +18,12 @@ The steps of buiding the system are as follows:
 
 The similarity Matrix visualization 
 <p align = "center">
-<img width ="500" height="500", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/Similarities.png>
+<img width ="800" height="400", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/Similarities.png>
  
  
  
 The dendrogram
  
 <p align = "center">
-<img width ="500" height="500", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/recommendation.png>
+<img width ="800" height="400", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/recommendation.png>
   
