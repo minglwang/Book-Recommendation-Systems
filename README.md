@@ -15,3 +15,15 @@ The steps of buiding the system are as follows:
 9. The book most similar to "On the Origin of Species"
 10. Find books have similar content using dendrogram
 
+
+The similarity Matrix visualization 
+<p align = "center">
+<img width ="500" height="500", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/Similarities.png>
+ 
+ 
+ 
+The dendrogram
+ 
+<p align = "center">
+<img width ="500" height="500", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/recommendation.png>
+  
