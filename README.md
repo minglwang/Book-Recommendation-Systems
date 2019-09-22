@@ -25,5 +25,5 @@ The similarity Matrix visualization
 The dendrogram
  
 <p align = "center">
-<img width ="800" height="400", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/recommendation.png>
+<img width ="800" height="300", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/recommendation.png>
   
