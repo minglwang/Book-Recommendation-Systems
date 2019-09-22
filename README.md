@@ -18,7 +18,7 @@ The steps of buiding the system are as follows:
 
 The similarity Matrix visualization 
 <p align = "center">
-<img width ="800" height="350", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/Similarities.png>
+<img width ="600" height="300", src =https://github.com/minglwang/Book-Recommendation-Systems/blob/master/figures/Similarities.png>
  
  
  
